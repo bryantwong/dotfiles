@@ -1,0 +1,5 @@
+0.0.0.0 facebook.com
+0.0.0.0 reddit.com
+0.0.0.0 pinterest.com
+0.0.0.0 youtube.com
+0.0.0.0 discordapp.com
